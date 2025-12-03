@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Gautham
-middle_name: 
+middle_name:
 last_name: Bellamkonda
 contact_note: >
   The best way to reach me is by via email at gauthambellamkonda [at] gmail [dot] com
@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Enumerator # blog_name will be displayed in your blog page
-blog_description:  A tape where I output insights and curiosities in theoretical CS and ML.
+blog_description: A tape where I output insights and curiosities in theoretical CS and ML.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
