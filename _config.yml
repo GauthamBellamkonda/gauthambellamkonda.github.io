@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Enumerator # blog_name will be displayed in your blog page
-blog_description: A tape where I output insights and curiosities in theoretical CS and ML.
+blog_description: A tape where I output my thoughts in theoretical CS and ML.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
