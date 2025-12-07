@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Warning: may start talking about algorithms out of nowhere</p>
+    <p>Caution: may spontaneously start talking about math and algorithms</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -34,8 +34,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am currently working as an Algorithms Research Engineer at [KLA](https://www.kla.com/). I graduated from [IIT Hyderabad](https://www.iith.ac.in/) with a B.Tech in Computer Science and Engineering in 2024, where I had the pleasure to work with [Prof. Karteek Sreenivasaiah](https://www.liverpool.ac.uk/people/karteek-sreenivasaiah) and [Prof. Vineeth Balasubramanian](https://people.iith.ac.in/vineethnb/).
 
-My research interests lie in the intersection of Theoretical Computer Science and Machine Learning, with a focus on understanding why ML algorithms behave the way they do, what kinds of guarantees they can offer under various settings, and how we can leverage these insights to design better algorithms. I also enjoy exploring topics adjacent to these areas, such as Quantum Computing, Algorithmic Game Theory, Optimization theory, and Reinforcement Learning.
+My research interests lie in the intersection of Theoretical Computer Science and Machine Learning, with a focus on understanding why ML algorithms behave the way they do, what kinds of guarantees they can offer under various settings, and how we can leverage these insights to design better algorithms. I also enjoy exploring topics adjacent to these areas, such as Quantum Computing, Algorithmic Game Theory, Optimization theory, and Reinforcement Learning. At the end of the day, I’m motivated by clear thinking, elegant ideas, and the joy of problem-solving.
+
 
 Outside of work and research, I enjoy sneaking into (theory) seminars on topics I know nothing about, over-analyzing movies, or just going for long walks on the beach.
-
-At the end of the day, I’m motivated by curiosity, clarity, and the fun of figuring things out.
