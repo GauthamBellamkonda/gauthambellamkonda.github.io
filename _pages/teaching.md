@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: I have a passion for teaching and sharing knowledge with others.
 nav: true
 nav_order: 4
