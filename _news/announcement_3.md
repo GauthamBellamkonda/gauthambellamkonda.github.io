@@ -1,8 +1,13 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
-inline: true
+title: Attended DSPOM 2025 held at ICTS-TIFR
+date: 2025-08-14
+inline: false
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I had the opportunity to attend [Data Science: Probabilistic and Optimization Methods II](https://www.icts.res.in/program/DSPOM) (DSPOM) 2025 held at ICTS-TIFR, Bangalore from August 4-15, 2025. Over two weeks, the talks covered a wide range of topics, from RL, bandits, and online decision-making to diffusion models, optimal transport, and LLMs. What made the program especially engaging was that many of the talks focused on explaining mechanisms and principles, not just stating results. Even when the material got technically demanding, the speakers made a clear effort to highlight the core ideas, the modeling choices, and the kinds of questions that actually drive current research. 
+
+While I liked most of the talks, [Prof. Eric Mazumdar](https://users.cms.caltech.edu/~mazumdar/)’s sessions on multi-agent reinforcement learning were easily my favorite. This was my first serious exposure to the area, and his four lectures were remarkably well paced and coherent. He started from the basic formulations of single-agent RL, carefully laying out why single-agent RL ideas break down, and then built up to modern approaches that blend game theory, optimization, and learning dynamics. By the end, we were discussing contemporary research questions and recent results, but it never felt rushed or opaque. The progression from fundamentals to state-of-the-art work made the subject feel accessible without oversimplifying it.
+
+Overall, the program felt less like a collection of isolated talks and more like a sustained conversation about where theory meets practice in data science today. Seeing connections between classical ideas in optimization and probability and their modern incarnations in generative modeling, large models, and interactive learning was particularly valuable. I am grateful to the [Prof. Sandeep Juneja](https://www.ashoka.edu.in/profile/sandeep-juneja/), [Prof. Jatin Batra](https://jatinbatra50.github.io/jatinbatra50/), [Praneeth Netrapalli](https://research.google/people/praneethnetrapalli/), [Prof. Vivek Borkar](https://en.wikipedia.org/wiki/Vivek_Borkar) and [Prof. Devarat Shah](https://devavrat.mit.edu/) for putting together such a thoughtful and well-structured program and for creating an environment that made deep technical engagement both possible and enjoyable.

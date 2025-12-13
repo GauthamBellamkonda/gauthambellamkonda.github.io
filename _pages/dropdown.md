@@ -1,8 +1,8 @@
 ---
 layout: page
 title: others
-nav: true
-nav_order: 6
+nav: false
+# nav_order: 6
 dropdown: true
 children:
   - title: bookshelf

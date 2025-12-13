@@ -192,6 +192,7 @@ exclude:
   - vendor
   - _projects/
   - _pages/projects.md
+  - _pages/profiles.md
   - _includes/projects_horizontal.liquid
   - _includes/projects.liquid
 keep_files:

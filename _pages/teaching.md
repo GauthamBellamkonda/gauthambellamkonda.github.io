@@ -2,11 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I have a passion for teaching and sharing knowledge with others.
 nav: true
 nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I have had the privilege of teaching several courses throughout my undergraduate studies at IIT Hyderabad. Here are some of the courses I have taught:
 
-Organize your courses by years, topics, or universities, however you like!
+1. **Discrete Mathematics** | Fall 2022 
+    - Responsibilities: Conducted weekly tutorial sessions, graded assignments and exams, and held office hours to assist students with course material.
+    - Description: This course covered fundamental concepts in discrete mathematics, including logic, set theory, combinatorics, graph theory, and number theory.
+
+2. **Data Structures and Algorithms** | Spring 2023
