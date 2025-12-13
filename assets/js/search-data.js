@@ -32,33 +32,12 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "I have a passion for teaching and sharing knowledge with others.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-network",
-              title: "network",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/AcademicNetwork/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -421,21 +400,35 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-the-subtle-art-of-not-giving-a-f-ck",
+          title: 'The Subtle Art of Not Giving a F*ck',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+              window.location.href = "/books/subtle_art/";
+            },},{id: "news-completed-my-undergraduate-degree-in-computer-science-and-engineering-from-iith-tada-smile-goodbye-iith-hello-future",
+          title: 'Completed my Undergraduate Degree in Computer Science and Engineering from IITH :tada: :smile:...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-joined-kla-as-an-algorithms-engineer",
+          title: 'Joined KLA as an Algorithms Engineer',
+          description: "",
+          section: "News",},{id: "news-attended-birs-savi-workshop-at-cmi",
+          title: 'Attended BIRS SAVI Workshop at CMI',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-attended-dspom-2025-held-at-icts-tifr",
+          title: 'Attended DSPOM 2025 held at ICTS-TIFR',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "news-finished-the-course-computability-and-complexity-under-prof-jayalal-sarma-at-iitm-while-working-at-kla-i-am-an-iitm-alum-now-sunglasses",
+          title: 'Finished the course “Computability and Complexity” under Prof. Jayalal Sarma at IITM, while...',
+          description: "",
+          section: "News",},{id: "news-our-paper-logiccbms-using-logic-to-enhance-concept-based-learning-is-accepted-at-wacv-2026-tada",
+          title: 'Our Paper “LogicCBMs: Using Logic to Enhance Concept-Based Learning” is accepted at WACV...',
+          description: "",
+          section: "News",},{id: "news-going-to-attend-acm-winter-school-on-game-theory-iit-ropar",
+          title: 'Going to attend ACM Winter School on Game Theory @ IIT Ropar',
           description: "",
           section: "News",},{
         id: 'social-cv',
